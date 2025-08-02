@@ -1,10 +1,7 @@
 # WT32-SC01-Exp
-Experiment with WT32-SC01 getting touch and rendering to work - not clever, not pretty but works! :)
+Fork of [seaniefs/WT32-SC01-Exp](https://github.com/seaniefs/WT32-SC01-Exp).
+The goal is to make a very basic template from which I can start new projets.
 
-Now uses platformio as using the Arduino IDE was causing folks too many issues.
+You'll need to install the TFT_eSPI library and configure it like described in [sowbug's fork](https://github.com/sowbug/WT32-SC01-Demo).
 
-# Building
-
-* If you're using vscode, install platformio extension and build and upload.
-
-* If you're using platformio on the command line, examples for building and uploaded provided in build.sh/upload.sh
+More info to come later. It's 1:30 AM and I should go to sleep.
